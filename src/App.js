@@ -73,9 +73,12 @@ function App() {
     <div className = "App">
       <header>
       <h1>
-        Simple Todo List
+        Daily Tasks
       </h1>
+      
+      
       </header>
+      
       <Form 
       todos = { todos } 
       setTodos = { setTodos } 
